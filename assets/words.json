@@ -1,0 +1,79 @@
+[
+  {
+    "section": "farm",
+    "words": [
+      "cow",
+      "sheep",
+      "pig",
+      "horse",
+      "rooster",
+      "turkey",
+      "donkey",
+      "duck"
+    ]
+  },
+  {
+    "section": "birds",
+    "words": [
+      "owl",
+      "raven",
+      "vulture",
+      "dove",
+      "falcon",
+      "robin",
+      "parrot",
+      "swan"
+    ]
+  },
+  {
+    "section": "city",
+    "words": [
+      "phone",
+      "train",
+      "ambulance",
+      "car",
+      "church",
+      "sleep",
+      "door",
+      "cry",
+      "laugh"
+    ]
+  },
+  {
+    "section": "nature",
+    "words": [
+      "rain",
+      "river",
+      "storm",
+      "wind"
+    ]
+  },
+  {
+    "section": "pets",
+    "words": [
+      "dog",
+      "cat",
+      "bird",
+      "rabbit",
+      "hamster",
+      "fish"
+    ]
+  },
+  {
+    "section": "wild",
+    "words": [
+      "monkey",
+      "lion",
+      "elephant",
+      "wolf",
+      "frog",
+      "cricket",
+      "bee",
+      "butterfly",
+      "whale",
+      "penguin",
+      "snake"
+    ]
+  }
+
+]
