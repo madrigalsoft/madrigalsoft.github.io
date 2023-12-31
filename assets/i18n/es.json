@@ -9,6 +9,7 @@
   "sounds": "Sonidos y palabras",
   "colors": "Colores",
   "maths": "Matemáticas",
+  "numbers": "Números",
 
   "farm": "animales de granja",
   "birds": "pájaros",
@@ -81,6 +82,16 @@
 
   "lang": "idioma",
   "photos": "fotos",
-  "illustrations": "ilustraciones"
+  "illustrations": "ilustraciones",
 
+  "one": "uno",
+  "two": "dos",
+  "three": "tres",
+  "four": "cuatro",
+  "five": "cinco",
+  "six": "seis",
+  "seven": "siete",
+  "eight": "ocho",
+  "nine": "nueve",
+  "ten": "diez"
 }
