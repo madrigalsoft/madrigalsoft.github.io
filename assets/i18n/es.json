@@ -5,6 +5,7 @@
   "colaborate": "Colabora",
   "config": "Configuración",
   "premium": "Premium",
+  "replay": "Volver a jugar",
 
   "sounds": "Sonidos y palabras",
   "memory": "Memoria",
@@ -96,5 +97,7 @@
   "seven": "siete",
   "eight": "ocho",
   "nine": "nueve",
-  "ten": "diez"
+  "ten": "diez",
+
+  "reset": "Volver a jugar"
 }
